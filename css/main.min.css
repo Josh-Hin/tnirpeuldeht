@@ -17,7 +17,7 @@
 
 body {
     margin: 0;
-    overflow-y: scroll
+    /* overflow-y: scroll */
 }
 
 a,button,input,label {
@@ -706,7 +706,8 @@ html .md-typeset__table table {
 html {
     font-size: 125%;
     height: 100%;
-    overflow-x: hidden
+    overflow-x: hidden;
+    overflow-y: scroll
 }
 
 @media screen and (min-width: 100em) {
