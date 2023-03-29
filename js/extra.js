@@ -110,26 +110,4 @@
     }
     readTime();
        
-    //     location.reload(true);
- 
-    // location.reload();
-
-    // $('#time').each(function() {
-    //     location.reload(true);
-    // });
-  
-    // let i = 0;
-    // while (i < 1) {
-    //     location.reload();
-    //     i++;
-    // }
-
-
-    
-        // $('#date-and-time').on('load', function() {
-        //     location.reload();
-        // });
-        
-        
-
-    
+   
