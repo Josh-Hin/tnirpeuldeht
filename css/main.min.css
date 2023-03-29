@@ -16,8 +16,7 @@
 }
 
 body {
-    margin: 0;
-    /* overflow-y: scroll */
+    margin: 0
 }
 
 a,button,input,label {
