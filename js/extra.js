@@ -111,7 +111,5 @@
     readTime();
       
    $('body').on('load', function(){ 
-    readTime();
-    readDate();
-    // location.reload(true);
+    location.reload(true);
    });
