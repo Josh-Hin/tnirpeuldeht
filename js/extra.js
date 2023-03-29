@@ -109,5 +109,10 @@
         }
     }
     readTime();
+
+    window.onload = function() {
+        readDate();
+        readTime();
+    };
        
    
