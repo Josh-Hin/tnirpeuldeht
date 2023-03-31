@@ -109,7 +109,8 @@
         }
     }
     readTime();
-      
-   $('body').on('load', function(){ 
-    location.reload(true);
-   });
+     
+    /** Place HTML in Markdown to generate Date and Time **/
+    // <p id="date-and-time"><span id="time"></span> minutes to read - <span id="lastModified"></span></p> 
+
+   
