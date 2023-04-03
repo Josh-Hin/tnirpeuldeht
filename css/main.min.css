@@ -2303,7 +2303,6 @@ html .md-footer-meta.md-typeset a:focus,html .md-footer-meta.md-typeset a:hover 
 }
 
 .md-search__form {
-    background-color: var(--md-default-bg-color);
     box-shadow: 0 0 .6rem #0000;
     height: 2.4rem;
     position: relative;
@@ -2313,7 +2312,6 @@ html .md-footer-meta.md-typeset a:focus,html .md-footer-meta.md-typeset a:hover 
 
 @media screen and (min-width: 60em) {
     .md-search__form {
-        background-color:#00000042;
         border-radius: .1rem;
         height: 1.8rem
     }
@@ -2324,7 +2322,6 @@ html .md-footer-meta.md-typeset a:focus,html .md-footer-meta.md-typeset a:hover 
 }
 
 [data-md-toggle=search]:checked~.md-header .md-search__form {
-    background-color: var(--md-default-bg-color);
     border-radius: .1rem .1rem 0 0;
     box-shadow: 0 0 .6rem #00000012;
     color: var(--md-default-fg-color)
